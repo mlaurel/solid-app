@@ -16,6 +16,9 @@ export default function Footer() {
             </A> |
             <A href="/about" class={`text-sky-600 border-b-2 ${active("/about")} mx-1.5 sm:mx-6`}>
                 About
+            </A> |
+            <A href="/trippy" class={`text-sky-600 border-b-2 ${active("/trippy")} mx-1.5 sm:mx-6`}>
+                Trip
             </A>
         </p>
     );

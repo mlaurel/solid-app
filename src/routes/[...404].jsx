@@ -22,7 +22,7 @@ export default function NotFound() {
         </A>
         {" - "}
         <A href="/about" class="text-sky-600 hover:underline">
-          About Page
+                  Support
         </A>
       </p>
     </main>
